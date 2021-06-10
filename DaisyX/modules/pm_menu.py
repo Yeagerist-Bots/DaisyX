@@ -75,7 +75,7 @@ async def get_start_func(message, strings, edit=False):
     buttons.add(
         InlineKeyboardButton(strings["btn_lang"], callback_data="lang_btn"),
         InlineKeyboardButton(
-            strings["btn_source"], url="https://github.com/TeamDaisyX/"
+            strings["btn_Dev"], url="https://t.me/Yeageristbotsdev"
         ),
     )
     buttons.add(
@@ -86,8 +86,8 @@ async def get_start_func(message, strings, edit=False):
     )
     buttons.add(
         InlineKeyboardButton(
-            "👸🏼 Add DaisyX to your group",
-            url=f"https://telegram.me/RengokuKyujoro_Robott?startgroup=true",
+            "👸🏼 Add 𝑹𝒆𝒏𝒈𝒐𝒌𝒖 𝑺𝒂𝒏 to your group",
+            url=f"https://telegram.me/RengokuKyujoro_Robot?startgroup=true",
         )
     )
     # Handle error when user click the button 2 or more times simultaneously
