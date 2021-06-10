@@ -186,9 +186,11 @@ STRINGS:
     emoji_not_allowed: "I'm sorry, but admin roles can't have emojis 😞"
 
   pm_menu:
-    start_hi_group: 'Hey there! My name is Rengoku Kyujoro'
-    start_hi: "Hey there! My name is <b>Rengoku Kyujoro.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
-    btn_source: "📜 Source code"
+    start_hi_group: 'Hey there! My name is 𝑹𝒆𝒏𝒈𝒐𝒌𝒖 𝑺𝒂𝒏'
+    start_hi: "Yo, Wassup I'm Rengoku Kyujoro, A powerfull Hashira Management Bot which helps you maintain your Group. I'm here to serve @anime_realms_chats but could help you also.
+
+Powered by @anime_realms!"
+    btn_source: "📜 Dev"
     btn_help: "❔ Help"
     btn_lang: "🇺🇸 Language"
     btn_channel: "🙋‍♀️  Rengoku Kyujoro News"
@@ -197,7 +199,7 @@ STRINGS:
     back: "🏃‍♂️ Back"
 
     # /help
-    help_header: "Hi Boss! I'm <b> Rengoku Kyujoro</b>. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you"
+    help_header: "Hi Boss! I'm Rengoku Kyujoro
     click_btn: Click here
 
   disable:
